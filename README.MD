@@ -27,7 +27,7 @@ Supports **CRUD operations**, **filtering**, **pagination**, and **bulk creation
 ## Tech Stack
 
 - Python 3.10.18
-- Django 5.2
+- Django 5.2.5
 - Django REST Framework
 - django-filter
 
@@ -63,8 +63,8 @@ python manage.py runserver
 
 python manage.py test
 
-## Python version
-
 ## Python version: 3.10.18
 
-git@github.com:moses-mwangi/task_manager_frontend.git
+## Backend url must be (Frontend Access Endpoint):
+
+http://127.0.0.1:8000/
